@@ -1,0 +1,4 @@
+bluw_user:
+    resource: "@BluwUserBundle/Resources/config/routing.yml"
+    prefix:   /
+

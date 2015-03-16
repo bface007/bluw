@@ -1,0 +1,12 @@
+bluw_user_admin:
+    path:     /
+    host:     admin.bluw.dev
+    defaults:
+        _controller: BluwUserBundle:Admin:index
+
+bluw_user_homepage:
+    path:     /
+    defaults:
+        _controller: BluwUserBundle:Test:index
+
+
